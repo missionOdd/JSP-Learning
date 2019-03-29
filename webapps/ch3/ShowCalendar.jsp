@@ -3,6 +3,6 @@
 <html>
 <body>
 <p>调用Tag文件来显示日历
-<rili:ShowCalender year="2019" month="12"/>
+<rili:ShowCalendar year="2019" month="04"/>
 </body>
 </html>
